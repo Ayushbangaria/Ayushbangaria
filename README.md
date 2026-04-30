@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Ayush Bangaria</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC Analyst | Python Developer | Network Security Learner</h3>
+<h3 align="center"><h3 align="center">Cybersecurity | International Experience | Network Forensics Analyst</h3></h3>
 
 ###
 
