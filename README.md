@@ -4,48 +4,48 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+Learner+%7C+SOC+Analyst;Python+Developer+%7C+Future+Master's+in+Germany;Building+Secure+Projects+Every+Day" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,linux,bash,git,github,html,css,mysql,vscode" height="60" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://linkedin.com/in/ayushbangaria" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://github.com/ayushbangaria" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  <a href="https://github.com/Ayushbangaria" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:ayushbangaria9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="mailto:ayushbangaria9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushbangaria&theme=dracula&column=4&margin-w=10&margin-h=10" height="150" alt="trophy graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=ayushbangaria&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushbangaria&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushbangaria&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayushbangaria&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushbangaria&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ###
@@ -57,8 +57,18 @@
 🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Privacy <br>
 🌍 International Work Experience in Cairo, Egypt <br>
 🛡️ Hands-on experience in SOC, Threat Hunting & Secure Web Development <br>
-📚 Currently advancing skills in Digital Forensics & Network Security <br>
+📚 Currently learning Digital Forensics & Network Security <br>
 🚀 Goal: Pursuing Master's in Cybersecurity in Germany
+</p>
+
+###
+
+<h3 align="left">🛠 Certifications</h3>
+
+<p align="left">
+✔️ (ISC)² Network Security <br>
+✔️ Cisco CCNA <br>
+✔️ NPTEL Practical Cybersecurity for Cybersecurity Practitioners
 </p>
 
 ###
@@ -68,15 +78,33 @@
 <p align="left">
 🔹 <b>CyberTrace</b> – Real-time Network Sniffer using Python, Scapy & Tkinter <br>
 🔹 <b>Hash Algo</b> – Secure Login System using Flask, bcrypt & SQLite <br>
-🔹 <b>Web Security Projects</b> – SQL Injection Prevention & HTTPS Security Controls
+🔹 <b>Secure Web Apps</b> – SQL Injection Prevention & HTTPS Controls
 </p>
 
 ###
 
+<h3 align="left">🌍 Languages</h3>
+
+<p align="left">
+🇮🇳 Hindi (C2) <br>
+🇬🇧 English (B2) <br>
+🇪🇸 Spanish (A1)
+</p>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayushbangaria&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushbangaria/ayushbangaria/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushbangaria/ayushbangaria/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayushbangaria/ayushbangaria/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushbangaria/Ayushbangaria/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushbangaria/Ayushbangaria/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayushbangaria/Ayushbangaria/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+
+<h3 align="center">⭐ Building Skills, Securing Systems, Growing Every Day ⭐</h3>
