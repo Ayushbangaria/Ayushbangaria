@@ -58,7 +58,8 @@
 🌍 International Work Experience in Cairo, Egypt <br>
 🛡️ Hands-on experience in SOC, Threat Hunting & Secure Web Development <br>
 📚 Currently learning Digital Forensics & Network Security <br>
-🚀 Goal: Pursuing Master's in Cybersecurity in Germany
+🚀 Goal: Pursuing a Master's in Cybersecurity in Europe
+
 </p>
 
 ###
