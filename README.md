@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Ayush Bangaria</h1>
-<h3 align="center"><h3 align="center">Cybersecurity | International Experience | Network Forensics Analyst</h3></h3>
+<h3 align="center"><h3 align="center">Cybersecurity Master's Student | Network Security | Digital Forensics | Ethical Hacking</h3></h3>
 
 ###
 
@@ -53,12 +53,13 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-🎓 BCA Graduate from Dr. Virendra Swarup College of Management Studies, Kanpur <br>
-🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Privacy <br>
-🌍 International Work Experience in Cairo, Egypt <br>
-🛡️ Hands-on experience in SOC, Threat Hunting & Secure Web Development <br>
-📚 Currently learning Digital Forensics & Network Security <br>
-🚀 Goal: Pursuing a Master's in Cybersecurity in Europe
+🎓 BCA Graduate from Dr. Virendra Swarup College of Management Studies, Kanpur
+🎓 Currently pursuing a Master's in Cybersecurity at Universiti Malaya (UM), Malaysia
+🔐 Passionate about Cybersecurity, Ethical Hacking & Digital Privacy
+🌍 International IT Work Experience in Cairo, Egypt
+🛡️ Hands-on experience in Network Security, Python, SOC & Secure Web Development
+📚 Currently exploring Digital Forensics, Threat Hunting & Network Forensics
+🚀 Aspiring Cybersecurity Professional focused on building secure digital environments
 
 </p>
 
