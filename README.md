@@ -68,10 +68,21 @@
 <h3 align="left">🛠 Certifications</h3>
 
 <p align="left">
-✔️ (ISC)² Network Security <br>
-✔️ Cisco CCNA <br>
-✔️ NPTEL Practical Cybersecurity for Cybersecurity Practitioners
-</p>
+## 🎓 Certifications & Professional Training
+
+   NPTEL
+- **Practical Cyber Security for Cyber Security Practitioners**
+  - Issued by: NPTEL
+  - Duration: July – October 2024
+  - Score: 82/100
+  - [View Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs85/Course/NPTEL24CS85S35120008403951738.pdf)
+
+   Coursera
+- **Coursera Certificate 1 (ISC2)**
+  - [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/D6C3OL7UWEUE)
+
+- **Coursera Certificate 2 (CCNA)**
+  - [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/VAVZ8F58715A)
 
 ###
 
