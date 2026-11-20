@@ -85,6 +85,20 @@
 
 ###
 
+<h3 align="left">🛡️ Technical Skills</h3>
+
+<p align="left">
+  <b>Programming:</b> Python (Basic), HTML, CSS <br>
+  <b>Networking:</b> Basic Networking, Nmap, Wireshark <br>
+  <b>Cybersecurity Tools:</b> Kali Linux, Burp Suite (Basic Familiarity) <br>
+  <b>Development:</b> Flask, SQLite, bcrypt <br>
+  <b>Network Analysis:</b> Scapy, Network Packet Analysis <br>
+  <b>Virtualization:</b> VMware, VirtualBox (Basic Lab Experience) <br>
+  <b>Version Control:</b> Git, GitHub
+</p>
+
+###
+
 <h3 align="left">🌍 Languages</h3>
 
 <p align="left">
